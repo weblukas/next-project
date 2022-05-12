@@ -15,7 +15,7 @@ export default function Home( {posts} ) {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome in my page
+          Welcome in hell
         </h1>
 
        <PostList posts={posts} />
